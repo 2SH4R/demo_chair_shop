@@ -1,4 +1,4 @@
-# Lisbon Chair Shop Website Readme
+# Lisbon Chair Shop Website
 
 ## Overview
 
