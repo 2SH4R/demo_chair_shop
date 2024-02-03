@@ -43,5 +43,5 @@ Welcome to the Lisbon Chair Shop website! This project is a simple, static websi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/lisbon-chair-shop.git
+   git clone git@github.com:tusharpatowary/lisbon-chair-shop.git
 
